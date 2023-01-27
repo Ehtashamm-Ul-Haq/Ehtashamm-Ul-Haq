@@ -83,6 +83,6 @@ const Ehtasham = {
 
 ## 📫 Resume
 
-**[Online Resume{:target="_blank"}](https://ehtashamm-ul-haq.github.io/resume)**
+**[Online Resume](https://external.ink?to=https://ehtashamm-ul-haq.github.io/resume)**
 
 
