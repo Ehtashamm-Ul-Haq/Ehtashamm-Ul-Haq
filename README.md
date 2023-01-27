@@ -65,20 +65,24 @@ const Ehtasham = {
 
 ## 🔗 Let's Connect 
 <div id="badges" align="center">
-  <a href="mailto:ahtashamshani1@gmail.com">
+  <a href="mailto:ahtashamshani1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/ehtasham-ul-haq-167497192/">
+  <a href="https://www.linkedin.com/in/ehtasham-ul-haq-167497192/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.facebook.com/ahtsham.ghafoor">
+  <a href="https://www.facebook.com/ahtsham.ghafoor" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://twitter.com/Ahtashamshani1?t=EA5UtCfmVHmO53iNNiUqwA&s=09">
+  <a href="https://twitter.com/Ahtashamshani1?t=EA5UtCfmVHmO53iNNiUqwA&s=09" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
 <br />
+
+## 📫 Resume
+
+**[Online Resume](https://ehtashamm-ul-haq.github.io/resume)**
 
 
