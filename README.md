@@ -8,8 +8,8 @@ const Ehtasham = {
 	experience: "3+ Years",
 	education: "BS(CS) from COMSATS, Islamabad — September 2015 to September 2019",
 	work: [
-		"Senior Software Engineer at Phaedra Solutions — *January 2021 to Present*",
-		"Software Engineer at The Help Desk — *January 2020 to January 2021*",
+		"Senior Software Engineer at Phaedra Solutions — January 2021 to Present",
+		"Software Engineer at The Help Desk — January 2020 to January 2021",
 	],
 	expertise: ["JavaScript", "NodeJS", "ExpressJs", "ReactJs", "MongoDB", "PostgreSQL", "Angular", "Redis", "NestJs", "Vuejs"],
 	goal: "To Leverage Software Development Skills And Create Software To Maximize Net Positive Impact In The Greater World",
