@@ -1,21 +1,38 @@
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" width="100%"/>
-<h1>Hi There! 👋 </h1>
+<!-- <h1>Hi There! 👋 </h1> -->
 </div>
 
-```javascript
-const Ehtasham = {
-	experience: "6+ Years",
-	education: "BS(CS) from COMSATS, Islamabad — September 2015 to September 2019",
-	work: [
-		"Senior Software Engineer at Phaedra Solutions — January 2021 to Present",
-		"Software Engineer at The Help Desk — January 2020 to January 2021",
-	],
-	expertise: ["JavaScript", "NodeJS", "ExpressJs", "ReactJs", "MongoDB", "PostgreSQL", "Angular", "Redis", "NestJs", "Vuejs", "AI Automations", "Agentic AI"],
-	goal: "To Leverage Software Development Skills And Create Software To Maximize Net Positive Impact In The Greater World",
-	askMeAbout: ["Full Stack Development", "Problem Solving"]
-}
-```
+# 👋 Hi, I'm Muhammad Ehtasham Ul Haq
+
+💻 **Senior Software Engineer**  
+🌍 Based in Pakistan | 🎓 **BS(CS)** — COMSATS Islamabad (2015–2019)
+
+---
+
+### 🧠 About Me
+I’m a **Full Stack Developer** with over **6 years of experience** crafting scalable, high-performance web applications.  
+My focus is on building impactful, human-centered software that creates real-world value.
+
+> "To leverage software development skills and create solutions that maximize net positive impact in the greater world."
+
+---
+
+### 💼 Professional Experience
+- 🏢 **Senior Software Engineer** — *Phaedra Solutions* (Jan 2021 – Present)  
+- 💼 **Software Engineer** — *The Help Desk* (Jan 2020 – Jan 2021)
+
+---
+
+### 💬 Ask Me About
+- Full Stack Development  
+- Scalable System Architecture  
+- Problem Solving & Performance Optimization  
+
+---
+
+⭐ *Always exploring ways to merge creativity with technology to make a positive impact.*
+
 <br/>
 
 ## 🛠️ Languages and Tools
@@ -35,6 +52,9 @@ const Ehtasham = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=fff)&nbsp;
 ![SQLite](https://img.shields.io/badge/SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-05122A?style=flat&logo=supabase&logoColor=white)
+
 
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -43,10 +63,15 @@ const Ehtasham = {
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud)&nbsp;
 ![GraphQL](https://img.shields.io/badge/GraphQL-05122A?style=flat&logo=graphql&logoColor=e60094)&nbsp;
 
+![n8n](https://img.shields.io/badge/n8n-workflow%20automation-05122A?style=flat&logo=n8n&logoColor=white)&nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-LLM%20framework-05122A?style=flat&logo=LangChain&logoColor=white)&nbsp;
+![LangGraph](https://img.shields.io/badge/LangGraph-agent%20orchestration-05122A?style=flat&logo=LangGraph&logoColor=white)&nbsp;
+
+
 <br/>
 
 ## 🤔 What I am Up To
-- 🌱 I’m currently working in MERN/MEAN stack.
+- 🌱 I’m currently working in MERN/MEAN stack, AI Automations and Agentic AI.
 - 👀 I’m interested in coding, problem solving and learning new things
 - 💞️ I’m looking to collaborate on anything that can help me grow!
 - 📫 Reach out to me at <a href="https://www.linkedin.com/in/ehtasham-ul-haq-167497192">
@@ -55,6 +80,13 @@ const Ehtasham = {
 - 👷‍ I worked on leagues.gg, Steppi, Mapstar and multiple other startups.
 
 <br/>
+
+## 🏆 Achievements & Highlights
+
+- 🥇 Built multiple production-grade SaaS applications serving thousands of users
+- ⚡ Developed high-performance REST & GraphQL APIs with caching & rate-limiting
+- 🧠 Mentored junior developers and led code reviews for enterprise teams
+- 🤖 Integrated AI automations and intelligent agent systems
 
 ## 🔥 GitHub Stats
 
