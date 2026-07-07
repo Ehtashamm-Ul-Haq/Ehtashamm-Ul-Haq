@@ -102,22 +102,34 @@ I've contributed to products used by real users across multiple startups, and I 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ehtashamm-Ul-Haq&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehtashamm-Ul-Haq&layout=compact&hide=scss&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" width="39%"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Ehtashamm-Ul-Haq&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF" alt="GitHub Streak Stats" width="60%"/>
+<img src="https://img.shields.io/github/followers/Ehtashamm-Ul-Haq?label=Followers&style=for-the-badge&color=58A6FF&logo=github" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Ehtashamm-Ul-Haq?label=Total%20Stars&style=for-the-badge&color=58A6FF&logo=github" alt="Stars"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ehtashamm-Ul-Haq&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" width="80%"/>
+<img src="https://streak-stats.demolab.com/?user=Ehtashamm-Ul-Haq&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF" alt="GitHub Streak Stats" width="60%"/>
 
 <br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ehtashamm-Ul-Haq&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="90%"/>
 
 </div>
+
+> **Note:** GitHub stats-card widgets (like `github-readme-stats.vercel.app`) are currently unreliable due to well-documented public rate-limiting/downtime issues on their shared instance. If the widgets above still don't render for you after a hard refresh, see the **self-hosting fix** below for a permanent solution.
+
+<details>
+<summary>🔧 Permanent fix: self-host your stats card (2 minutes, recommended)</summary>
+
+The public stats-card service is overloaded and frequently down. To get a stats card that *always* works:
+
+1. Go to https://github.com/anuraghazra/github-readme-stats
+2. Click the **"Deploy"** button in the README (deploys your own free copy on Vercel)
+3. In your new Vercel project, add an environment variable `PAT_1` with a GitHub Personal Access Token (Settings → Developer Settings → Personal Access Tokens → generate one with `repo` scope)
+4. Use your new Vercel URL instead of the public one, e.g.:
+   `https://YOUR-PROJECT-NAME.vercel.app/api?username=Ehtashamm-Ul-Haq&show_icons=true&theme=dark`
+
+This removes you from the shared rate limit entirely, so the card loads instantly and reliably.
+</details>
 
 <br/>
 
